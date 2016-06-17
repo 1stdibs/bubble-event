@@ -15,6 +15,7 @@
     "sinon": "^1.17.4"
   },
   "dependencies": {
+    "custom-event": "^1.0.0",
     "lodash.assign": "^4.0.9"
   }
 }
