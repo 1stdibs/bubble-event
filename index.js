@@ -1,5 +1,5 @@
 const assign = require('lodash.assign');
-const CustomEvent = require('custom-event');
+const CustomEvent = require('custom-event-universal');
 module.exports = function (node, name, detail, options) {
     options = assign({
         bubbles: true,
