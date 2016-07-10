@@ -1,6 +1,6 @@
 {
   "name": "bubble-event",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "trigger custom dom events without the ceremony:",
   "main": "index.js",
   "scripts": {
