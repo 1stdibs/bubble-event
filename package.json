@@ -7,8 +7,8 @@
     "test": "mocha"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "1stdibs, Inc.",
+  "license": "MIT",
   "devDependencies": {
     "jsdom": "^9.2.1",
     "mocha": "^2.5.3",
@@ -23,10 +23,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/antialias/bubble-event.git"
-  },
-  "bugs": {
-    "url": "https://github.com/antialias/bubble-event/issues"
-  },
-  "homepage": "https://github.com/antialias/bubble-event#readme"
+    "url": "git+https://github.com/1stdibs/bubble-event.git"
+  }
 }
